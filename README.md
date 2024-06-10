@@ -8,4 +8,5 @@ This project involves predicting house prices in Bangalore using a regression mo
 3. Model Implementation: Train a regression model to predict house prices.
 4. Framework Development: Create a Flask web application for user interaction.
 5. Client-Server Integration: Set up communication between the client interface and the server to provide price predictions.
+
 The goal is to develop an accessible web application that allows users to estimate house prices based on input features.
